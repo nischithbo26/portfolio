@@ -1,0 +1,23 @@
+{
+  "Languages": ["C++", "Java", "Python", "Go", "JavaScript"],
+  "Frameworks & Libraries": [
+    "Spring",
+    "Django",
+    "ReactJS",
+    "Selenium",
+    "Pytest",
+    "JUnit"
+  ],
+  "Databases": ["MSSQL", "MySQL", "PostgreSQL", "MongoDB"],
+  "DevOps": [
+    "Jenkins",
+    "Maven",
+    "Terraform",
+    "Ansible",
+    "Docker",
+    "Kubernetes",
+    "Git"
+  ],
+  "Cloud": ["AWS", "Azure", "GCP"],
+  "Tools": ["Jira", "IntelliJ", "Visual Studio", "Postman", "Grafana"]
+}

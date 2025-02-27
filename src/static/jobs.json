@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Engineering Research Intern",
+    "company": "Commvault Systems",
+    "from": "May 2024",
+    "to": "Jan 2025",
+    "location": "Tinton Falls, New Jersey",
+    "summary": "Developed an AI-powered log analysis tool to diagnose job failures, optimized log processing, and built a PCA-based anomaly detection system to analyze transactions in Azure Storage accounts.",
+    "skills": [
+      "Python",
+      "Azure ML Studio",
+      "Synapse Analytics",
+      "PCA",
+      "Azure Storage",
+      "DevOps"
+    ],
+    "jobDescription": [
+      "Developed an AI-driven log analysis tool (Vertex AI) to diagnose job failures, processing 300+ requests daily and reducing troubleshooting time while improving accuracy in issue identification.",
+      "Optimized log processing by implementing smart parsing and filtering, reducing data volume by 70%, and designed secure log masking to protect sensitive information.",
+      "Built a PCA-based anomaly detection system in Azure ML Studio and Synapse Analytics to analyze 10,000+ daily delete transactions in Azure Storage accounts, with an automated daily pipeline and KQL optimization for enhanced query performance."
+    ]
+  },
+  {
+    "title": "Software Development Engineer",
+    "company": "Commvault Systems",
+    "from": "Jan 2021",
+    "to": "Jul 2023",
+    "location": "Bengaluru, India",
+    "summary": "Developed and optimized backup solutions for virtualization platforms, enhanced cloud resource management, implemented auto-scaling capabilities, and built AutoCenter, a full-stack application to improve test scheduling, reporting, and monitoring.",
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "Spring Boot",
+      "React",
+      "MS SQL Server",
+      "AWS",
+      "Azure",
+      "REST APIs",
+      "Microservices",
+      "DevOps"
+    ],
+    "jobDescription": [
+      "Developed and optimized backup and recovery solutions for virtualization platforms, ensuring robust data protection across cloud and on-premises environments.",
+      "Optimized code for auto-scaling Azure and AWS agents, improving scaling accuracy by 30% and reducing computational overhead. Extended auto-scaling support to include restore operations, ensuring efficient resource allocation and faster recovery times.",
+      "Created RESTful APIs to integrate cloud-based backup solutions with third-party applications, ensuring secure and efficient data exchange with MS SQL Server as the backend.",
+      "Developed AutoCenter, a Java web application managing 2,000+ test cases, leveraging Spring Boot for the backend and React for the frontend to improve test scheduling, reporting, and monitoring capabilities.",
+      "Resolved 30+ critical issues as an SME for Azure, Hyper-V, and SaaS, led POC sessions, and enhanced reliability, improving service experience and customer satisfaction.",
+      "Mentored incoming interns on team workflows, technical skills, and project tasks."
+    ]
+  },
+  {
+    "title": "Associate Software Engineer",
+    "company": "Commvault Systems",
+    "from": "Jan 2020",
+    "to": "Dec 2020",
+    "location": "Bengaluru, India",
+    "summary": "Redesigned backup systems for VM-level management, automated cloud resource management, and optimized Azure cloud costs through scripting.",
+    "skills": [
+      "C++",
+      "Python",
+      "Terraform",
+      "Ansible",
+      "Azure",
+      "PowerShell",
+      "Selenium",
+      "CI/CD",
+      "DevOps"
+    ],
+    "jobDescription": [
+      "Redesigned Hyper-V backup systems to enable VM-level management, enhancing customer flexibility and driving adoption by 40% of existing clients and 100% of new onboarding.",
+      "Implemented Infrastructure-as-Code (IaC) using Terraform and Ansible to automate VM and cloud resource management on Azure and AWS, reducing manual intervention by 60% and improving cost efficiency.",
+      "Achieved a 60% reduction in Azure cloud costs through Python scripting and PowerShell for identifying redundant resources, triggering alerts, and consolidating reports.",
+      "Designed API automation frameworks for CI/CD, ensuring seamless deployments and robust backend testing. Implemented Selenium automation, boosting efficiency and test coverage by 25%."
+    ]
+  }
+]

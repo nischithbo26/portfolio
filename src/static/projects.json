@@ -1,0 +1,44 @@
+[
+  {
+    "name": "HackerRank Clone",
+    "link": "https://github.com/nischithbo/HackerRank-Clone",
+    "imgName": "HackerRank",
+    "skills": "Java, Spring Boot, Next.js, Docker",
+    "description": "Built a HackerRank-like online code judge using Java, Spring Boot, and Next.js. Executed user-submitted code in isolated Docker containers, enforcing memory and time limits while evaluating test cases."
+  },
+  {
+    "name": "UF MarketPlace",
+    "link": "https://github.com/MANIKUMAR98/UFMarketPlace",
+    "imgName": "UFMarket",
+    "skills": "Golang, React.js",
+    "description": "Built a secure marketplace for university students, implementing login and email verification features, enabling users to post and purchase items."
+  },
+  {
+    "name": "Kubernetes Adaptive Resource Controller",
+    "link": "https://github.com/nischithbo/Adaptive_Resource_Controller_for_Kubernetes_Clusters",
+    "imgName": "kubernetes",
+    "skills": "Python, Kubernetes",
+    "description": "Developed an adaptive feedback-based controller for Kubernetes to optimize resource utilization amid 30% workload variability. Implemented PID-based local and global controllers, maintaining stable CPU usage across 50+ nodes and pods."
+  },
+  {
+    "name": "News Article Analysis Using SRL",
+    "link": "https://github.com/nischithbo/News_Article_Analysis-Using-SRL",
+    "imgName": "NLP",
+    "skills": "Python, SpaCy, Hugging Face, BERT",
+    "description": "Developed an NLP system for news article analysis using Python, SpaCy, Hugging Face, and TensorFlow. Fine-tuned a BERT model to identify actors and actions with 87% accuracy and created a rating system to rank actors based on their influence within articles."
+  },
+  {
+    "name": "P2P File Sharing Program",
+    "link": "https://github.com/nischithbo/PeerToPeer-File-Transfer-Torrents",
+    "imgName": "BitTorrent",
+    "skills": "Python, Socket Programming, Multithrading",
+    "description": "Developed a peer-to-peer (P2P) file-sharing program using Python. Implemented a choking-unchoking mechanism and a secure handshake for efficient piece exchange and resource management."
+  },
+  {
+    "name": "Homecoming",
+    "link": "https://github.com/nischithbo/eYRC_2018",
+    "imgName": "eyantra",
+    "skills": "Python, OpenCV, PyTorch, CNN",
+    "description": "Secured 5th place out of 5,790 teams in IIT Bombay's 'e-Yantra' robotics competition. Built a line-following robot using OpenCV, PyTorch, and Firebird V, integrating a CNN model with 75% accuracy to identify animals and habitats."
+  }
+]
