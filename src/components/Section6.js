@@ -110,14 +110,22 @@ function Section6() {
           <div className="row container d-flex flex-wrap justify-content-center align-items-center gap-3 m-1 m-md-2">
             {links.linkedin && (
               <div className="col-5 d-flex justify-content-center">
-                <a href={links.linkedin} className="social-icon">
+                <a
+                  href={links.linkedin}
+                  className="social-icon"
+                  title={links.linkedin}
+                >
                   <LinkedInLogo />
                 </a>
               </div>
             )}
             {links.github && (
               <div className="col-5 d-flex justify-content-center">
-                <a href={links.github} className="social-icon">
+                <a
+                  href={links.github}
+                  className="social-icon"
+                  title={links.github}
+                >
                   <GithubLogo />
                 </a>
               </div>
@@ -126,14 +134,22 @@ function Section6() {
           <div className="row container d-flex flex-wrap justify-content-center align-items-center gap-3 m-2">
             {links.gmail && (
               <div className="col-5 d-flex justify-content-center">
-                <a href={links.gmail} className="social-icon">
+                <a
+                  href={links.gmail}
+                  className="social-icon"
+                  title={links.gmail}
+                >
                   <GmailLogo />
                 </a>
               </div>
             )}
             {links.phone && (
               <div className="col-5 d-flex justify-content-center">
-                <a href={links.phone} className="social-icon">
+                <a
+                  href={links.phone}
+                  className="social-icon"
+                  title={links.phone}
+                >
                   <PhoneLogo />
                 </a>
               </div>
