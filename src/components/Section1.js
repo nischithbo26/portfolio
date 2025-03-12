@@ -24,14 +24,14 @@ function Section1() {
         {/* Profile Name and Title */}
         <div className="title-wrap">
           <h2>{profileData.name}</h2>
-          <p className="mb-1">
+          <p className="mb-2 p-1">
             <strong>{profileData.title}</strong>
           </p>
         </div>
 
         {/* Profile Summary with HTML content */}
         <div
-          className="summary-wrap mb-2 p-1"
+          className="summary-wrap mb-2 p-2"
           dangerouslySetInnerHTML={{ __html: profileData.summary }}
         />
 
